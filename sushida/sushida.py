@@ -26,9 +26,7 @@ driver.get(target_url)
 sleep(10)
 
 
-# コメント追加
-
-print("______開始します_____")
+# 開始しますなし
 
 # <body>に向かってキーを入力させる
 target_xpath = '/html/body'
