@@ -25,9 +25,6 @@ driver.get(target_url)
 # クリックする前にロード時間待機
 sleep(10)
 
-
-# 開始しますなし
-
 # <body>に向かってキーを入力させる
 target_xpath = '/html/body'
 element = driver.find_element_by_xpath(target_xpath)
