@@ -10,4 +10,4 @@ i = 1
 while i <= 100000000000:
     driver.get('http://www.rays-counter.com/d515_f8_022/6350a333753b3/')
 
-#////
+#////fhdさいううghfそ
